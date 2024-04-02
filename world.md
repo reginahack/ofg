@@ -1,0 +1,1 @@
+The world consists of the [[network]]. A [[network]] contains [[cells]]. [[Cells]] have [[characters]]. They have [[logs]]. 

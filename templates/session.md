@@ -1,0 +1,6 @@
+---
+id:
+date:
+campaign:
+referee:
+---
