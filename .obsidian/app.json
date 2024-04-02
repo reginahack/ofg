@@ -1,5 +1,6 @@
 {
   "propertiesInDocument": "source",
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

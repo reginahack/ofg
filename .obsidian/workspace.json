@@ -6,6 +6,7 @@
       {
         "id": "591e3682e746ee24",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "ff751330e916a320",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/referees/campaigns/cells/St. Louis Cell.md",
+                "file": "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "783fa52396a4d4ed",
         "type": "tabs",
+        "dimension": 27.563352826510723,
         "children": [
           {
             "id": "df2269b17a43586b",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/character.md",
+                "file": "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,6 +44,7 @@
       {
         "id": "905f1b4c6b07473e",
         "type": "tabs",
+        "dimension": 39.10331384015595,
         "children": [
           {
             "id": "8d49c5396ae47282",
@@ -119,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md"
+              }
             }
           }
         ]
@@ -177,26 +184,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d49c5396ae47282",
+  "active": "ff751330e916a320",
   "lastOpenFiles": [
-    "network/referees/campaigns/cells/St. Louis Cell.md",
-    "templates/character.md",
+    "network/referees/Example Referee 1.md",
+    "network/referees/campaigns/PlaytestCampaign/Playtest Campaign.md",
+    "network/referees/campaigns/PlaytestCampaign/characters",
+    "network/referees/campaigns/Example Campaign 1.md",
+    "network/referees/campaigns/PlaytestCampaign",
+    "templates/referee.md",
+    "network/referees/AJ.md",
+    "network/Network Central Command.md",
+    "network/referees/campaigns/cells/character/Example character 2 1.md",
+    "network/referees/campaigns/cells/character/Example character 1 1.md",
+    "network/referees/campaigns/cells/character/Example character 1.md",
+    "network/referees/campaigns/cells/Example Cell 2.md",
+    "network/referees/campaigns/cells/Example Cell 1.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Joy Mary Smith.md",
+    "network/referees/campaigns/cells/character/Example character 2.md",
+    "network/referees/campaigns/Example Campaign 2.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Bryce.md",
     "world.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Detective Jenny Blake.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Vonbella Alexander.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/St. Louis Cell.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Richard Moonglow.md",
+    "network/referees/campaigns/PlaytestCampaign/characters/Clark.md",
+    "network/Untitled.canvas",
+    "Untitled.md",
+    "templates/character.md",
     "templates/cell.md",
     "templates/campaign.md",
-    "network/Network Central Command.md",
-    "Cells.md",
-    "network.md",
-    "network/referees/campaigns/cells/character/Richard Moonglow Petersen.md",
-    "templates/referee.md",
-    "network/referees/campaigns/Playtest Campaign.md",
-    "network/referees/mr referee.md",
-    "network/referees/AJ.md",
     "Agent",
     "network/referees/campaigns",
     "network/referees",
-    "templates/session.md",
-    "README.md",
     "network/referees/campaigns/cells/character",
     "network/referees/campaigns/cells",
     "network",

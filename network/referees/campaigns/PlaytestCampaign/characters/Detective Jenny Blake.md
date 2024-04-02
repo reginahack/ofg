@@ -1,0 +1,1 @@
+Jenny works for St. Louis Metro PD, in their Domestic department. She has a chip on her shoulder about being overlooked for promotion or better roles, and helps the [[St. Louis Cell]] partially out of spite for her job. She and [[Joy Mary Smith]] are close friends, having met because they are neighbors in their apartment block.
