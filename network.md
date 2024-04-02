@@ -1,5 +1,0 @@
----
-aliases:
-- The Network
-- Network
----
